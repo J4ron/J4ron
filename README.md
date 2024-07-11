@@ -76,6 +76,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/J4ron/J4ron/output/snake.svg" alt="Snake animation" />
-
 ###
