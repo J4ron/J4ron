@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jaron  
 
-🚀 **Fullstack Developer** · **UI/UX Designer**
+🚀 **Fullstack Developer** · **UI/UX Designer** <br>
 🧠 I build tools that are **fast**, **modular**, and **privacy-focused**  
 💡 Passionate about clean code. Beautiful UI. User-first design. Always learning.
 📍 Based in Germany  
