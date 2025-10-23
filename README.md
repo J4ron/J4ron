@@ -10,7 +10,7 @@
 ## 🔧 Tech I Love  
 
 **Languages & Backend**  
-TypeScript · Java · C · Python · SQL · Supabase · MongoDB · Postgres  
+TypeScript · Bun · Java · C# · Python · SQL · Supabase · MongoDB · Postgres 
 
 **Frontend & UI**  
 React · Next.js · Astro · TailwindCSS · Shadcn UI · Framer Motion  
