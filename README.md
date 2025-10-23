@@ -1,17 +1,56 @@
-# 💫 About Me:
-## 👋 Hey, I'm Jaron<br><br>🚀 Fullstack Developer · UI/UX Designer · OSS Maker  <br>🛠️ I build tools that are **fast**, **modular**, and **privacy-focused**  <br>💡 Obsessed with clean code, elegant interfaces, and developer experience  <br>📍 Based in Germany · Running on ☕ & TypeScript<br><br>### 🔧 Tech I Love<br>- ⚙️ TypeScript, Java, C, Python  <br>- 🧩 React, Next.js, Tailwind, Shadcn UI  <br>- 🧠 Zustand, React Query, NestJS, Supabase  <br>- 🖥️ Linux (Arch btw), Bun, Docker, Gradle  <br><br>### 🧪 What I’m Working On<br>- 🧭 `Planwise` – Realtime team scheduling for modern workflows  <br>- 🌀 `getomni.sh` – Local-first PDF, DOCX, Image conversion<br> - 🎯 `Modio Studio` – My Web Studio <br><br> ### 📫 Let’s Connect<br>Feel free to reach out, contribute, or just say hi!  
+# 👋 Hey, I'm Jaron  
 
-
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LashR6_) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+🚀 **Fullstack Developer** · **UI/UX Designer** · **Open Source Maker**  
+🧠 I build tools that are **fast**, **modular**, and **privacy-focused**  
+💡 Passionate about clean code, elegant interfaces, and developer experience  
+📍 Based in Germany · Running on ☕ & TypeScript  
 
 ---
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JaronGe) 
+## 🔧 Tech I Love  
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Languages & Backend**  
+TypeScript · Java · C · Python · SQL · Supabase · MongoDB · Postgres  
+
+**Frontend & UI**  
+React · Next.js · Astro · TailwindCSS · Shadcn UI · Framer Motion  
+
+**Dev Tools & Systems**  
+Linux (Arch btw) · Bun · Docker · Git · Gradle  
+
+---
+
+## 🧪 Current Projects  
+
+- 🧭 **Planwise** – Realtime team scheduling for modern workflows  
+- 🌀 **getomni.sh** – Landing page for the local-first converter *Omni*  
+- 🎯 **Modio Studio** – My digital studio for modern web experiences  
+
+---
+
+## 💬 About Me  
+
+I'm a **self-taught developer and design enthusiast**, focused on creating  
+**developer-centric products** that feel fast, minimal, and meaningful.  
+
+Currently studying **Business Informatics**, building tools, and growing  
+my experience in large-scale web development environments.  
+
+---
+
+## 🌐 Connect  
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devjaron)
+[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/LashR6_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Website](https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://getomni.sh)
+
+---
+
+## 💰 Support My Work  
+
+[![PayPal](https://img.shields.io/badge/Donate%20on%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JaronGe)
+
+---
+
+### 🖤 Crafted with care by **dev.jaron** · [Modio Studio](https://modio.studio)
