@@ -42,8 +42,7 @@ my experience in large-scale web development environments.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devjaron)
 [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/LashR6_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Website](https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://getomni.sh)
+[![Website](https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://modio.studio)
 
 ---
 
