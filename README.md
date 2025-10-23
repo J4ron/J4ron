@@ -2,7 +2,7 @@
 
 🚀 **Fullstack Developer** · **UI/UX Designer** <br>
 🧠 I build tools that are **fast**, **modular**, and **privacy-focused**  
-💡 Passionate about clean code. Beautiful UI. User-first design. Always learning.
+💡 Passionate about clean code. Beautiful UI. User-first design. Always learning. <br>
 📍 Based in Germany  
 
 ---
