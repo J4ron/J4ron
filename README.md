@@ -26,7 +26,7 @@ Linux (Arch btw) · Bun · Docker · Git · Gradle
 - 🌀 **getomni.sh** – Landing page for the local-first converter *Omni*  
 - 🎯 **Modio Studio** – My digital studio for modern web experiences
 - 🎵 **Spotify Mini Player** – Custom replacement for Spotify’s built-in mini player.  
-  Features **themeable overlays**, **template options**, and **lightweight, responsive design**.  
+  • Features themeable overlays, template options, and lightweight, responsive design
 
 
 ---
