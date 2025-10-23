@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Jaron  
 
-🚀 **Fullstack Developer** · **UI/UX Designer** · **Open Source Maker**  
+🚀 **Fullstack Developer** · **UI/UX Designer**
 🧠 I build tools that are **fast**, **modular**, and **privacy-focused**  
 💡 Passionate about clean code, elegant interfaces, and developer experience  
-📍 Based in Germany · Running on ☕ & TypeScript  
+📍 Based in Germany  
 
 ---
 
@@ -41,7 +41,6 @@ my experience in large-scale web development environments.
 ## 🌐 Connect  
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devjaron)
-[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/LashR6_)
 [![Website](https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://modio.studio)
 
 ---
