@@ -54,4 +54,4 @@ my experience in large-scale web development environments.
 
 ---
 
-### 🖤 Crafted with care by **dev.jaron** · [Modio Studio](https://modio.studio)
+### 🖤 Crafted with care by **dev.jaron** 
