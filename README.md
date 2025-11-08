@@ -16,7 +16,7 @@ TypeScript · Bun · Java · C# · SQL · Supabase · MongoDB · Postgres
 React · Next.js · Astro · TailwindCSS · Shadcn UI · Framer Motion  
 
 **Dev Tools & Systems**  
-Linux (Arch btw) · Bun · Docker · Git · Gradle  
+Linux · Bun · Docker · Git · Gradle  
 
 ---
 
