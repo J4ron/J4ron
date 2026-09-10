@@ -1,57 +1,32 @@
-# 👋 Hey, I'm Jaron  
+# Jaron
 
-🚀 **Fullstack Developer** · **UI/UX Designer** <br>
-🧠 I build tools that are **fast**, **modular**, and **privacy-focused**  
-💡 Passionate about clean code. Beautiful UI. User-first design. Always learning. <br>
-📍 Based in Germany  
+Full-stack developer & UI/UX designer from Germany.
 
----
+I build web applications, desktop tools, and developer-focused products.
+Currently studying **Business Informatics** and working professionally in software development.
 
-## 🔧 Tech I Love  
+## Stack
 
-**Languages & Backend**  
-TypeScript · Bun · Java · C# · SQL · Supabase · MongoDB · Postgres 
+**Frontend**
+TypeScript · Vue · React · Next.js · Astro · Tailwind CSS
 
-**Frontend & UI**  
-React · Next.js · Astro · TailwindCSS · Shadcn UI · Framer Motion  
+**Backend & APIs**
+Bun · Node.js · Java · C# · OpenAPI · PostgreSQL · MySQL · Supabase
 
-**Dev Tools & Systems**  
-Linux · Bun · Docker · Git · Gradle  
+**Desktop & Tooling**
+Tauri · Rust · Git · Docker · Linux · Vite · Playwright
 
----
+## Selected Projects
 
-## 🧪 Current Projects  
+**[MiniFy](https://github.com/ModioStudio/MiniFy)**
+Desktop Spotify companion built with Tauri, React, TypeScript, and Rust.
 
-- 🧭 **Planwise** – Realtime team scheduling for modern workflows  
-- 🌀 **getomni.sh** – Landing page for the local-first converter *Omni*  
-- 🎯 **Modio Studio** – My personal dev brand for modern web experiences
-- 🎵 **Spotify Mini Player** – Custom replacement for Spotify’s built-in mini player.  
-  • Features themeable overlays, template options, and lightweight, responsive design
+**[HelperHub](https://github.com/J4ron/HelperHub)**
+Self-hosted application built with Blazor, C#, and Docker.
 
+**[Modio Studio](https://modio.studio)**
+Web development and UI/UX design for modern digital products.
 
----
+## Links
 
-## 💬 About Me  
-
-I'm a **self-taught developer and design enthusiast**, focused on creating  
-**developer-centric products** that feel fast, minimal, and meaningful.  
-
-Currently studying **Business Informatics**, building tools, and growing  
-my experience in large-scale web development environments.  
-
----
-
-## 🌐 Connect  
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devjaron)
-[![Website](https://img.shields.io/badge/Website-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://modio.studio)
-
----
-
-## 💰 Support My Work  
-
-[![PayPal](https://img.shields.io/badge/Donate%20on%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JaronGe)
-
----
-
-### 🖤 Crafted with care by **dev.jaron** 
+[modio.studio](https://modio.studio) · [ModioStudio](https://github.com/ModioStudio)
