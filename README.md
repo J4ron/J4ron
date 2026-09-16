@@ -1,31 +1,29 @@
 # Jaron
 
-Full-stack developer & UI/UX designer from Germany.
+Software Developer · Business Informatics Student
 
-I build web applications, desktop tools, and developer-focused products.
-Currently studying **Business Informatics** and working professionally in software development.
+I work on web applications and build independent software projects.
 
-## Stack
+My current professional focus is web development with TypeScript and Vue, APIs, authentication/IAM, and automated testing.
 
-**Frontend**
-TypeScript · Vue · React · Next.js · Astro · Tailwind CSS
+## Experience
 
-**Backend & APIs**
-Bun · Node.js · Java · C# · OpenAPI · PostgreSQL · MySQL · Supabase
+**Professional / internship**  
+TypeScript · Vue 3 · REST / OpenAPI · Playwright · Git · IAM / Auth · C# · Java
 
-**Desktop & Tooling**
-Tauri · Rust · Git · Docker · Linux · Vite · Playwright
+**Own & client projects**  
+JavaScript · React · Next.js · PostgreSQL · Docker · Tauri · Rust
 
 ## Selected Projects
 
-**[MiniFy](https://github.com/ModioStudio/MiniFy)**
+**[MiniFy](https://github.com/ModioStudio/MiniFy)**  
 Desktop Spotify companion built with Tauri, React, TypeScript, and Rust.
 
-**[HelperHub](https://github.com/J4ron/HelperHub)**
+**[HelperHub](https://github.com/J4ron/HelperHub)**  
 Self-hosted application built with Blazor, C#, and Docker.
 
-**[Modio Studio](https://modio.studio)**
-Web development and UI/UX design for modern digital products.
+**[Modio Studio](https://modio.studio)**  
+Web projects and individual web solutions for clients.
 
 ## Links
 
